@@ -1,9 +1,3 @@
-# Geo-gnn
-Geometry-enhanced graph neural network for glassy dynamics prediction
+# Geo-GNN
 
-
-Coming soon...
-
-
-
-The code will be available once the paper is published.
+Geometry-enhanced graph neural network for learning the smoothness of glassy dynamics from static structure
